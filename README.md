@@ -11,7 +11,20 @@ The pipeline includes:
 - Training and evaluation of YOLO models using the Ultralytics framework
 
 ---
+## Example Results
 
+### Input (raw microscopy image)
+
+![Raw Image](examples/fov198_tp35_denoised.png)
+
+### Ground Truth (manual annotation)
+
+![Ground Truth](examples/fov198_tp35_manualannot.png)
+
+### Model Prediction
+
+![Prediction](examples/fov198_tp35_denoised.jpg)
+---
 ## Project Structure
 
 ```text
