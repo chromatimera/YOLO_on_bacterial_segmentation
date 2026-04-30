@@ -25,6 +25,7 @@ The pipeline includes:
 
 ![Prediction](examples/fov198_tp35_denoised.jpg)
 ---
+
 ## Project Structure
 
 ```text

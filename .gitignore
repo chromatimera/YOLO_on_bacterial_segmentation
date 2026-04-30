@@ -97,3 +97,8 @@ logs/
 *.key
 *.pem
 
+
+# BUT keep example images
+!examples/
+!examples/*.png
+!examples/*.jpg
