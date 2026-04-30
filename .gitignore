@@ -1,0 +1,99 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# =========================
+# 📦 Packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# 🧪 Testing & coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# 📓 Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# 🧠 IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 💻 OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 📊 Data files (important for your projects)
+# =========================
+data/raw/
+data/processed/
+*.csv
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+
+# =========================
+# 🤖 YOLO / ML outputs & datasets
+# =========================
+dataset/
+dataset_tiled/
+runs/
+weights/
+*.pt
+
+# =========================
+# 🖼️ Images / large files
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# =========================
+# 🤖 YOLO / ML outputs
+# =========================
+runs/
+weights/
+*.pt
+
+
+# =========================
+# 📈 Outputs / results
+# =========================
+outputs/
+results/
+logs/
+
+# =========================
+# 🔐 Secrets
+# =========================
+.env
+*.key
+*.pem
