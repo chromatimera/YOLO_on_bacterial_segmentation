@@ -17,7 +17,7 @@ The aim of this project is to assess whether:
 ---
 ## Example Results
 
-### Input (raw microscopy image)
+### Input (preprocessed microscopy image)
 
 ![Raw Image](examples/fov198_tp35_denoised.png)
 
