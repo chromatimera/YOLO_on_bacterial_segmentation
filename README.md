@@ -10,6 +10,10 @@ The pipeline includes:
 - Optional tiling of large images for improved detection of small unicellular bacteria at later time points
 - Training and evaluation of YOLO models using the Ultralytics framework
 
+The aim of this project is to assess whether:
+1. preprocessing of images before feeding to YOLO improves model performance?
+2. augmentation during training improves model performance?
+3. tiling of images improves model performance and detection of small bacteria?
 ---
 ## Example Results
 
