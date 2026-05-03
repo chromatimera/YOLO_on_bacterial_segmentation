@@ -12,7 +12,10 @@ The pipeline includes:
 
 The aim of this project is to assess whether:
 1. preprocessing of images before feeding to YOLO improves model performance?
-2. augmentation during training improves model performance?
+    Experiment A: raw images 
+    Experiment B: preprocessed images
+    Experiment C: raw images with YOLO augmentations
+    Experiment D: preprocessed images with YOLO augmentations
 3. tiling of images improves model performance and detection of small bacteria?
 ---
 ## Example Results
